@@ -7,7 +7,7 @@ its HTML :hot_face:
 
 <html>
   <head>
-    <link rel="stylesheet" href="https://raw.githubusercontent.com/AirplanegoBrr/AirplaneGoBrr/main/Style.css">
+    <link rel="stylesheet" href="Style.css">
   </head>
   
   <body>
