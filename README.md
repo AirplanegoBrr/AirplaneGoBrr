@@ -9,7 +9,7 @@ Just goto ur desktop right click make new file
 and do
 <br>
 
-<html>
+<-- <html>
   <head>
     <title> This is where you inport css and put ur title </title>
     you can inport a css like this
@@ -30,3 +30,4 @@ and do
    <a href="/minecraft/index.html">My minecraft stuff!</a>
   </body>
 </html>
+->
