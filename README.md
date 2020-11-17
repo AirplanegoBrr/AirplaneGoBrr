@@ -1,21 +1,11 @@
 ### Hi there 👋
 
 someone tell me what lang this is pls?
+<br>
 its HTML :hot_face:
 
 <b> Bold?</b>
 
-<html>
-  <head>
-    <link rel="stylesheet" href="Style.css">
-    test1
-  </head>
-  test2
-  <body>
-  body text3
-  </body>
-  test4
-  </html>
 
 
 
