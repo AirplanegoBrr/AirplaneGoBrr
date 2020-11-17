@@ -4,6 +4,23 @@ someone tell me what lang this is pls?
 its HTML :hot_face:
 
 <b> Bold?</b>
+
+<html>
+  <head>
+    <link rel="stylesheet" href="/style.css">
+  </head>
+  
+  <body>
+  body text
+  </body>
+  
+  </html>
+
+
+
+
+
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
