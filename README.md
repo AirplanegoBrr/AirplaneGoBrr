@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+someone tell me what lang this is pls?
+
 <!--
 **AirplanegoBrr/AirplaneGoBrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
