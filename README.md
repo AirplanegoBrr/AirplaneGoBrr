@@ -1,24 +1,24 @@
-### Hi there 👋
-
-someone tell me what lang this is pls?
-<br>
-its HTML :hot_face:
-
-<b> Bold?</b>
+## Hi there :wave:
 
 
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: linen;
+}
 
+h1 {
+  color: maroon;
+  margin-left: 40px;
+} 
+</style>
+</head>
+<body>
 
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
 
-
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</body>
+</html>
