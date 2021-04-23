@@ -1,9 +1,10 @@
 ## Hi there :wave:
-<br> <br>
-I love HTML bc its easy
-<br>
-no joke anyone can learn it
-[Click me](https://github.com/AirplanegoBrr/AirplaneGoBrr/blob/main/HTML.txt)
+
+I used to code in python but now I code in javascript like a normal person 😄 (coff coff DevFlock coff)
+
+My main project right now are my twitch bot and my discod bot. (Mainly the twitch bot)
+
+My best "bud" is probably [DevFlock](https://github.com/DevFlock)
 
 ## GitHub Stats 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AirplaneGoBrr&show_icons=true&theme=dark)<br>
