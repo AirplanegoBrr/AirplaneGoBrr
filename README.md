@@ -8,7 +8,7 @@ My best "bud" is probably [DevFlock](https://github.com/DevFlock)
 
 I'm also 15 but dont sound/act/look like it.
 
-I also have my own website (thats hella slow) [Site](https://airplanegobrr.tk)
+I also have my own website (thats hella slow) [Site](https://airplanegobrr.tk) [Faster](http://72.219.69.45:2052/)
 
 
 ## GitHub Stats 
