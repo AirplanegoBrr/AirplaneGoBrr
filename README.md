@@ -12,7 +12,7 @@ I also have my own website (thats hella slow)
 
 [Site](https://airplanegobrr.tk)
 
-[Faster](http://72.219.69.45:2052/)
+[Faster](http://72.219.69.45:2052/) DADDY UWU
 
 
 ## GitHub Stats 
