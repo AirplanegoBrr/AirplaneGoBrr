@@ -2,7 +2,7 @@
 
 I used to code in python but now I code in javascript like a normal person 😄 (coff coff DevFlock coff)
 
-My main project right now are my twitch bot and my discod bot. (Mainly the twitch bot)
+My main project right now are my discod bot.
 
 My best "bud" is probably [DevFlock](https://github.com/DevFlock)
 
@@ -13,6 +13,10 @@ I also have my own website (thats hella slow)
 [Site](https://airplanegobrr.tk)
 
 [Faster](http://72.219.69.45:2052/) DADDY UWU
+
+## Contact
+
+airplanegobrrfeedback@gmail.com
 
 
 ## GitHub Stats 
