@@ -12,7 +12,11 @@ I also have my own website (thats hella slow)
 
 [Site](https://airplanegobrr.tk)
 
-[Faster](http://72.219.69.45:2052/) DADDY UWU
+[Faster](http://72.219.69.45:2052/)
+
+##Update!
+
+Most of my code will now be on my GitHub team!
 
 ## Contact
 
