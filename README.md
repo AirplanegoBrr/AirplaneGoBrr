@@ -14,7 +14,7 @@ I also have my own website (thats hella slow)
 
 [Faster](http://72.219.69.45:2052/)
 
-~~## Update!~~
+## ~~Update!~~
 
 ~~Most of my code will now be on my GitHub team!~~
 
