@@ -1,3 +1,5 @@
+
+
 ## Hi there :wave:
 
 I used to code in python but now I code in javascript like a normal person 😄 (coff coff DevFlock coff)
@@ -8,9 +10,7 @@ My best "bud" is probably [DevFlock](https://github.com/DevFlock)
 
 I'm also 15 but dont sound/act/look like it.
 
-I also have my own website
-
-[Faster](https://airplanegobrr.ga)
+[My API](http://airplanegobrr.us.to) (btw this will NEVER be posted to github sorry...)
 
 ## ~~Update!~~
 
