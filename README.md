@@ -10,7 +10,7 @@ My best "bud" is probably [DevFlock](https://github.com/DevFlock)
 
 I'm also 15 but dont sound/act/look like it.
 
-[My API](http://airplanegobrr.us.to) (btw this will NEVER be posted to github sorry...)
+[My API](http://airplanegobrr.us.to:5000) (btw this will NEVER be posted to github sorry...)
 
 ## ~~Update!~~
 
