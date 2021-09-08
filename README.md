@@ -4,7 +4,8 @@
 
 I used to code in python but now I code in javascript like a normal person 😄 (coff coff DevFlock coff)
 
-My main project right now are my discod bot.
+My main project right:
+Death.
 
 My best "bud" is probably [DevFlock](https://github.com/DevFlock)
 
