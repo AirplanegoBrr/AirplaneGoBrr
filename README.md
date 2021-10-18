@@ -30,6 +30,5 @@ airplanegobrrfeedback@gmail.com
 
 ## CopyRight
 
-How my copyright works is VERY simple. Just put (some where on your project/website (it can even be a comment in the HTML ok??)) "<code> was sorced from AirplaneGobrr(APGB)"
-  
+How my copyright works is VERY simple. Just put (some where on your project/website (it can even be a comment in the HTML ok??)) "<code> was sorced from AirplaneGobrr(APGB)"<br>
 I ask you just follow it please. Its very simple. I won't enforce it but I ask out of the kindness of my heart that you do <3
