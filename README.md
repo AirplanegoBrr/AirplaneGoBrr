@@ -7,19 +7,11 @@ I used to code in python but now I code in javascript like a normal person 😄
 My main project right:
 Death.
 
-I'm also 15 but dont sound/act/look like it.
-
-[My API](http://airplanegobrr.us.to:3000) (btw this will NEVER be posted to github sorry...)
+I'm also 16 but dont sound/act/look like it.
 
 Check out my [ToDo](https://github.com/AirplanegoBrr/todo) list!
 
 Check out my minecraft plugins! [Here](https://www.spigotmc.org/members/gamesky1234661.1106310/#resources)
-
-## ~~Update!~~
-
-~~Most of my code will now be on my GitHub team!~~
-
-No.
 
 ## Contact
 
