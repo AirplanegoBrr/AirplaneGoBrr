@@ -22,6 +22,9 @@ airplanegobrrfeedback@gmail.com
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AirplaneGoBrr&show_icons=true&theme=dark)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AirplaneGoBrr&theme=dark)
 
+## WARNING ⚠
+All code on this profile may be outdated! Please do not use any code in production!
+
 ## CopyRight
 
 How my copyright works is VERY simple. Just put (some where on your project/website (it can even be a comment in the HTML/code ok??)) 
