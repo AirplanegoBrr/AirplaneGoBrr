@@ -25,12 +25,4 @@ airplanegobrrfeedback@gmail.com
 ## WARNING ⚠
 All code on this profile may be outdated! Please do not use any code in production!
 
-## CopyRight
-
-How my copyright works is VERY simple. Just put (some where on your project/website (it can even be a comment in the HTML/code ok??)) 
-
-"some code was sorced from AirplaneGobrr(APGB)"
-  
-I ask you just follow it please. Its very simple. I won't enforce it but I ask out of the kindness of my heart that you do <3
-
-You can add what code was used if you would like
+if u use work then just lmk and make credit me idc tbh
