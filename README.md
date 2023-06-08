@@ -5,7 +5,7 @@
 I used to code in python but now I code in javascript like a normal person 😄
 
 My main project right:
-Death.
+Manga bot!
 
 I'm also 17 but dont sound/act/look like it.
 
