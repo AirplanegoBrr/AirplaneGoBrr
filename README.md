@@ -15,7 +15,7 @@ Check out my minecraft plugins! [Here](https://www.spigotmc.org/members/gamesky1
 
 ## Contact
 
-airplanegobrrfeedback@gmail.com
+[github-feedback@airplanegobrr.xyz](mailto:github-feedback@airplanegobrr.xyz)
 
 
 ## GitHub Stats 
