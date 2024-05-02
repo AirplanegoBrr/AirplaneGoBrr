@@ -26,3 +26,7 @@ Check out my minecraft plugins! [Here](https://www.spigotmc.org/members/gamesky1
 All code on this profile may be outdated! Please do not use any code in production!
 
 if u use work then just lmk and make credit me idc tbh
+
+## PGP Key
+
+[7FE4 EB9C 58F3 E66E E65E 6E2A 2A70 86A8 1615 2C88](pgp.txt) `AirplaneGobrr <airplane@airplanegobrr.xyz>`
