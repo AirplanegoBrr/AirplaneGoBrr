@@ -1,17 +1,7 @@
+# Hi there :wave:
+I code in javascript
 
-
-## Hi there :wave:
-
-I used to code in python but now I code in javascript like a normal person 😄
-
-My main project right:
-Manga bot!
-
-I'm also 18 but dont sound/act/look like it.
-
-Check out my [ToDo](https://github.com/AirplanegoBrr/todo) list!
-
-Check out my minecraft plugins! [Here](https://www.spigotmc.org/members/gamesky1234661.1106310/#resources)
+I'm 18
 
 ## Contact
 
@@ -19,8 +9,47 @@ Check out my minecraft plugins! [Here](https://www.spigotmc.org/members/gamesky1
 
 
 ## GitHub Stats 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AirplaneGoBrr&show_icons=true&theme=dark)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AirplaneGoBrr&theme=dark)
+![AirplaneGobrr's Github stats](https://github-readme-stats.vercel.app/api?username=AirplaneGoBrr&show_icons=true&theme=dark)
+
+
+# Services I run
+
+Jellyfin: https://jellyfin.airplanegobrr.xyz/ (http://airplanegobrr.us.to:3010/) (https://forms.gle/YmSXL2H8CxKMypMx6)
+
+Pterodactyl: https://panel.airplanegobrr.xyz/ (http://airplanegobrr.us.to:3200/)
+
+Planka: https://planka.airplanegobrr.xyz/
+
+Custom AI: https://ai.airplanegobrr.xyz/
+
+# Domains I own
+
+`airplanegobrr.xyz`
+
+`dreamcityrp.xyz`
+
+`netabuse.online` (Selling for any price, I don't want it)
+
+# Old domains
+
+`apgb.xyz` (rip)
+
+# Subdomains I own (Via https://freedns.afraid.org/)
+
+`airplanegobrr.us.to`
+
+`6627MC.us.to`
+
+`jabrock.us.to`
+
+`UltimateGamers.us.to`
+
+`vps-airplanegobrr.us.to`
+
+# IPs I have
+
+`155.248.212.83`
 
 ## WARNING ⚠
 All code on this profile may be outdated! Please do not use any code in production!
