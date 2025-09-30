@@ -5,7 +5,7 @@ I'm 19
 
 ## Contact
 
-[github-feedback@airplanegobrr.xyz](mailto:github-feedback@airplanegobrr.xyz)
+[github-feedback@airplanegobrr.xyz](mailto:github-feedback@airplanegobrr.xyz) - Working again! Sorry!
 
 
 ## GitHub Stats 
